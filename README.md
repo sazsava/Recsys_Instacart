@@ -1,4 +1,4 @@
 # Recsys_Instacart
 Skillbox recsys diploma repo for a vendor website
 
-<img src="https://www.reuters.com/resizer/v2/V3GDCFWRVFMCRDBX3CLRCBKVAI.jpg?auth=594cbe38c60da16b2ab428bc6d0ff6b9973e345f13c0c99931f5f74a9c1c5f33&width=4000&quality=80" width="400" height="238" />
+<img src="https://api.datalemur.com/assets/4208a77d-1c41-49a3-9f88-57875d40cc93" width="114" height="54" />
