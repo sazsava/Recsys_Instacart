@@ -1,4 +1,4 @@
 # Recsys_Instacart
 Skillbox recsys diploma repo for a vendor website
 
-<img src="https://images.ctfassets.net/4rnblstkg79m/6eQtQFBIIiwCJjBK7d5fLA/4d35f9000b15c739999e32309cd30509/25_Instacart_HQ.jpg" width="400" height="225" />
+<img src="https://img.freepik.com/premium-photo/ordering-grocery-online-shopping-purchase-healthy-food-shopping-groceries-online-supermarket-food-grocery-shop_36325-3595.jpg?w=1380" width="900" height="400" />
