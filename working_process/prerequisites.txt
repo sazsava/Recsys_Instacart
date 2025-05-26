@@ -1,0 +1,15 @@
+# packages in environment:
+#
+# Name                    Version                   
+conda                     25.1.1          
+pip                       24.2            
+python                    3.11.9               
+numpy                     1.24.3               
+pandas                    2.2.2           
+scikit-learn              1.5.2             
+scikit-surprise           1.1.4               
+scipy                     1.11.3          
+tensorflow                2.15.1         
+tqdm                      4.66.5           
+wheel                     0.44.0          
+xgboost                   2.1.4         
