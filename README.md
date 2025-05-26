@@ -22,8 +22,7 @@ Skillbox recsys diploma repo for a vendor website
    !unzip skillbox-recommender-system.zip
 ```
 Учтите, что для его использования нужно быть зарегестрированным на платформе Kaggle, а также выполнить ряд действий для настройки пользования одноименной библиотекой.
- 
-[Инструкция как это сделать в jupyter notebook(на английском языке)](https://saturncloud.io/blog/how-to-import-kaggle-datasets-into-jupyter-notebook/)
+ [Инструкция как это сделать в jupyter notebook(на английском языке)](https://saturncloud.io/blog/how-to-import-kaggle-datasets-into-jupyter-notebook/)
 
  3. Проверьте пути до указанных файлов в rec_main.py (смотрите сразу под блоком кода с импортом библиотек), поменяйте их на нужные.
 
@@ -51,15 +50,12 @@ Skillbox recsys diploma repo for a vendor website
   |--refit, -r|Для переобучения модели (обучения заново на новых данных) необходимо передать флажок 'True' в refit. Необязательный аргумент. По умолчанию False.|
 
 Пример запуска со всеми аргументами:
-
 `python rec_main.py -ui 2 13 50 1712 -n 8 -p ./data/new_prod.csv -t ./data/new_transact.csv -r True`
 
 Для запуска с исходным набором параметром достаточно такого:
-
 `python rec_main.py -ui 2 13 50 1712`
 
 Для одного пользователя:
-
 `python rec_main.py -ui 2`
 
 ### МЕТОД Б (Подача в виде последовательного ввода)
